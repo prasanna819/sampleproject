@@ -1,0 +1,285 @@
+#back
+{
+	background-color: #FFC300;
+}
+.navbar
+{
+ background-color: #570909;
+}
+#grid
+{
+	background-color: #FFC300;
+}
+#thirt
+{
+	font-family: serif;
+	position:absolute;
+	top:90%;
+	left:10%;
+	border:none;
+	height:30px;
+	width:200px;
+	font-size:1em;
+	background-color:#FFC300;
+}
+#hist
+{
+	text-align: center;
+	text align: justify;
+	
+}
+#third
+{
+	text-align: center;
+	text align: justify;
+	background-color: #570909;
+}
+#two
+{
+	font-family: serif;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+#three
+{
+	font-family: serif;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+#twe
+{
+	font-family: serif;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+#four
+{
+	background-color: #FFFFFF;
+}
+#five
+{
+	background-image:url("img/kcb.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	text-align: justify;
+}
+#six
+{
+	text-align: justify;
+}
+#seven
+{
+	text-indent: 50px;
+	display: flex;
+	font-family:serif;
+	align-items: center;
+	justify-content: center;
+	text-align:justify;
+	font-size: 2.0em;
+}
+#nine
+{
+	background-color:  #570909;
+}
+#fran
+{
+	background-color: #FFC300;
+}
+#fran1
+{
+	font-family:serif;
+	background-color: #570909;
+	color: white;
+}
+#fran4
+{
+	font-family:serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:1.8em;
+	font-weight:300;
+	text-align:justify;
+}
+#fran5
+{
+	font-family:serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:2.4em;
+	font-weight:60;
+	text-align:justify;
+}
+#fran6
+{
+	font-family:cursive;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:2.4em;
+	font-weight:50;
+	text-align:justify;
+}
+.fran7
+{
+	background-color: #570909;
+	font-family:serif;
+}
+#fran8
+{
+	font-family: serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight:200;
+	font-size:1.8em;
+	text-align:justify;
+
+}
+#fran9
+{
+	font-family: monospace;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:1.9em;
+	font-weight:50;
+	text-align:justify;
+}
+#fran0
+{
+	font-family: serif;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+#franone
+{
+	font-family: monospace;
+	color: white;
+}
+#lastone
+{
+	font-family: serif;
+	align-items: center;
+	font-weight:200;
+	font-size:1.3em;
+	justify-content: center;
+}
+#thelast
+{
+	font-family: serif;
+	align-items: center;
+	font-weight:200;
+	font-size:1.3em;
+	justify-content: center;
+}
+#lasttwo
+{
+	width: 100%;
+}
+#nkc
+{
+	font-family:cursive;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:2.4em;
+	font-weight:50;
+	text-align:justify;
+}
+#cl
+{
+	font-family:cursive;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size:2.4em;
+	font-weight:50;
+	text-align:justify;
+	
+}
+#byob
+{
+	font-family:serif;
+}
+#ai
+{
+	font-family:serif;
+}
+#yf
+{
+	font-family:serif;
+}
+#ten
+{
+	font-family:serif;
+}
+#eleven
+{
+	font-family:serif;
+}
+#product
+{
+	background-color: #FFC300;
+}
+#hot
+{
+	background-image: url("img/kcb.jpg");
+
+}
+#sweet
+{
+	background-image: url("img/bg4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#mil
+{
+	background-image: url("img/bg5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#ice
+{
+	background-image: url("img/bg4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#organ1
+{
+	background-color: white;
+}
+#flake
+{
+	background-color: #570909;
+}
+#bev
+{
+	font-family:serif;
+}
+#swe
+{
+	font-family:serif;
+}
+#mille
+{
+	font-family:serif;
+}
+#cream
+{
+	font-family:serif;
+}
+#bg
+{
+	background-image: url("img/bg5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
